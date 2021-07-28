@@ -1,2 +1,2 @@
-# SPACE-INVANDERS
-SPACE INVANDERS
+# Space-Invaders
+Space Invaders
